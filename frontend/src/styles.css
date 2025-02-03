@@ -1,0 +1,14 @@
+body {
+  background-color: black;
+  position: relative;
+  margin: 0px;
+  width: 100vw;
+  height: max(100%, 100vh);
+  overflow-x: hidden;
+}
+.window {
+  position: absolute;
+  border: solid 1px black;
+  box-sizing: content-box;
+  background-color: rgb(40, 40, 40);
+}
