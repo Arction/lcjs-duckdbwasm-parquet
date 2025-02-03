@@ -18,6 +18,8 @@ In this proof of concept, data set(s) are stored as [parquet](https://parquet.ap
 
 https://github.com/user-attachments/assets/47723a8d-efd3-4997-8d0b-f32776ce1878
 
+Summary; LightningChart JS does not require user to use aggregation to load data into the charts. This is an example of storing data in both raw format as well as an aggregated copy to increase initial app load time and thus user experience.
+
 Learn more at [lightningchart.com](https://lightningchart.com/js-charts).
 
 ## Running the application
